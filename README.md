@@ -8,12 +8,10 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<p>Working with systems and website development (Front and Back). Specialist also as a graphic designer in creating visual identity, logo and UI projects. 
 
-- Eu tive meu primeiro contato com linhas de código com a linha da AMD (Amd K6 233) linha Computer - Compaq Presario With Windows 98, pequenos projetos já com PASCAL e um pouco de JAVA. Nessa epóca conexão com internet a 56,6 kbps era um luxo rs.. e ali no mundo da tecnologia com a internet eu decidi quero trabalhar com isso na minha vida.
-- Fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas e empresas.
-- Atualmente como foco principal atuando em  áreas de desenvolvimento web, desktop e mobile. Utilizo a stack Delphi, JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- Flamenguista doente e apaixonado por futebol, costumo jogar 2 a 3 vezes na semana no meu tempo livre.
-- Também trabalho e gosto muito de design gráfico e web.
+Developer with DELPHI, REACT and JS with knowledge in API cycle, Azure DevOps, Git, GitHub and Database..</p>
+
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
