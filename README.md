@@ -12,6 +12,10 @@
 
 Developer with DELPHI, REACT and JS with knowledge in API cycle, Azure DevOps, Git, GitHub and Database..</p>
 
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiocotta&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiocotta&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
